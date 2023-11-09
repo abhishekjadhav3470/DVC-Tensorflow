@@ -1,7 +1,6 @@
 # DVC - DL - TF 
 
-download data --> [source]https://drive.google.com/drive/folders1h286tLdyfXvXkjq5S5_Dr-vW_K0caqUVusp=drive_link
-)
+download data -->https://drive.google.com/drive/folders1h286tLdyfXvXkjq5S5_Dr-vW_K0caqUVusp=drive_link
 
 ## commands - 
 
