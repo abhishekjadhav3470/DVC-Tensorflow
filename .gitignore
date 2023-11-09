@@ -132,7 +132,6 @@ research
 .idea/
 .vscode/
 
-
 ./env
 # ignore the secrets file
 config/secrets.yaml
