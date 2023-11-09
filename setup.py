@@ -5,7 +5,7 @@ with open("README.md" , "r", encoding="utf-8") as f:
 
 setup(
     name="src",
-    version="0.0.3",
+    version="0.0.1",
     author="abhishekjadhav3470",
     description="A small package for dvc Ml pipeline",
     long_description=long_description,
@@ -13,17 +13,15 @@ setup(
     url="https://github.com/abhishekjadhav3470/DVC-TF.git",
     author_email="abhishekjadhav3470@gmail.com",
     packages=["src"],
-    license="GNU",
-    python_requires =">=3.7",
+    python_requires=">=3.7",
     install_requires=[
-        "dvc"
-        "tensorflow"
-        "matplotlib"
-        "numpy"
-        "pandas"
-        "tqdm"
-        "PyYAML"
-        "boto3"  
-]
-
+        "dvc",
+        "tensorflow",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "tqdm",
+        "PyYAML",
+        "boto3" ,
+    ]
 )

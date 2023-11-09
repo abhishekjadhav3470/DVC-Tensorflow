@@ -127,22 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# if using pycharm
-.idea
-
-# if using VScode
-.vscode
-
-# add secret keys or API keys here
-configs/secrets.yaml
-
-# add your env folder here if its there
+data/*
+research
+.idea/
+.vscode/
 
 
-/final_output.txt
-/output_stage_one.txt
-/output_stage_two.txt
-/final.txt
-/artifacts.txt
-/artifacts_02.txt
+./env
+# ignore the secrets file
+config/secrets.yaml
+/data
