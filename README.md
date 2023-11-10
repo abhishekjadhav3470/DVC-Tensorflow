@@ -1,5 +1,4 @@
-# DVC _ NLP _ Simple _ Usecase
-DVC NLP Project
+# DVC - DL - TF 
 
 download data --> [source]https://drive.google.com/drive/folders/1h286tLdyfXvXkjq5S5_Dr-vW_K0caqUV?usp=drive_link
 )
